@@ -29,8 +29,8 @@ First as a graduant or with qualifications, there is a place for sign up from wh
 *  Hannah Waruguru
 *  Adriano Meroka
 *  Christine Namulanda
-*  Samuel Okoth
-*  Maxwel Migwi
+*  Samwel Okoth
+* Maxwell Migwi.
 
 ## License
 MIT(COPYRIGHT 2019)
