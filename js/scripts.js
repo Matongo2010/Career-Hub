@@ -6,4 +6,13 @@ this.specialisation = specialisation;
 this.certNumber = certNumber;
 this.institution = institution;
 
+
+}
+
+
+
+function validateForm(){
+    if(form.inputfield.value=="") {
+        alert("Error: the field is blank!!")
+    }
 }
